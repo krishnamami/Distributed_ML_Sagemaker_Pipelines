@@ -1,7 +1,5 @@
 # Distributed_ML_Sagemaker_Pipelines
-
-## Objective:
-Leverage Amazon SageMaker Pipelines to enable parallel model development and scoring across containerized, distributed nodes—streamlining end-to-end ML workflows and accelerating experimentation at scale.
+This project demonstrates how to leverage Amazon SageMaker Pipelines to enable parallel model development and distributed scoring using containerized compute nodes. The pipeline is designed to streamline end-to-end ML workflows, from data processing to batch inference, while accelerating experimentation and production deployment.
 
 ### Architecture :
 
@@ -11,7 +9,7 @@ Leverage Amazon SageMaker Pipelines to enable parallel model development and sco
 * Parameters:
 
 ![image](https://github.com/user-attachments/assets/3312dabb-84be-407c-8b9c-b2e4f7469c58)
-
+# Pipeline Steps:
 * Processing Step:
    * Executes a Python-based feature engineering script using frameworks like Scikit-learn.
    * Outputs are stored in S3 as training, testing, and validation datasets.
@@ -33,7 +31,7 @@ Leverage Amazon SageMaker Pipelines to enable parallel model development and sco
     * Performs offline scoring using the batch data located in S3.
     * Leverages the registered model to generate predictions in batch mode.
     
-   Production implementation:
+   Production Use:
    
    With the learnings from this experiment, we successfully implemented parallel model development and scoring pipelines for four models—supporting both Purchase and Refinance scenarios in production.
    
