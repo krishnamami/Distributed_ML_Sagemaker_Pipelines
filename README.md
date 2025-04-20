@@ -37,6 +37,11 @@ This project demonstrates how to leverage Amazon SageMaker Pipelines to enable p
    
   ![image](https://github.com/user-attachments/assets/bf438d9f-2f86-48fb-aef7-5194f169949f)
 
+# How To Run
+ -->Clone the repo: git clone https://github.com/krishnamami/Distributed_ML_Sagemaker_Pipelines.git
+ -->pip install -r requirements.txt
+ -->python sage_maker_pipeline.py
+
 
 
    
