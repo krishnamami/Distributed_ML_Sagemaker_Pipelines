@@ -9,7 +9,7 @@ This project demonstrates how to leverage Amazon SageMaker Pipelines to enable p
 * Parameters:
 
 ![image](https://github.com/user-attachments/assets/3312dabb-84be-407c-8b9c-b2e4f7469c58)
-# Pipeline Steps:
+### Pipeline Steps:
 * Processing Step:
    * Executes a Python-based feature engineering script using frameworks like Scikit-learn.
    * Outputs are stored in S3 as training, testing, and validation datasets.
@@ -37,9 +37,11 @@ This project demonstrates how to leverage Amazon SageMaker Pipelines to enable p
    
   ![image](https://github.com/user-attachments/assets/bf438d9f-2f86-48fb-aef7-5194f169949f)
 
-# How To Run
+### How To Run
  -->Clone the repo: git clone https://github.com/krishnamami/Distributed_ML_Sagemaker_Pipelines.git
+ 
  -->pip install -r requirements.txt
+ 
  -->python sage_maker_pipeline.py
 
 
