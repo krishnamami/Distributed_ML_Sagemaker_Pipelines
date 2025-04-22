@@ -57,6 +57,20 @@ Ideal for MLOps teams looking to streamline experimentation, ensure consistency 
  
  -->python sage_maker_pipeline.py
 
+## Related Projects
+[Fine_Tuning_LLM](https://github.com/krishnamami/Fine_Tuning_LLM)
+
+[Markov_Chain_Attribution](https://github.com/krishnamami/Markov_Chain_Attribution)
+
+[Multi Agent Anamoly Detection](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection)
+
+Author Krishna Goud
+Head of Data Engineering & MLOps | Rocket LA
+
+Delivering $4B+ business impact via AI-first, scalable, real-time data systems
+
+[LinkedIn](https://www.linkedin.com/in/krishnagoud)
+
 
 
    
