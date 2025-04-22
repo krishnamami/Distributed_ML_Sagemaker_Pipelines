@@ -64,12 +64,14 @@ Ideal for MLOps teams looking to streamline experimentation, ensure consistency 
 
 [Multi Agent Anamoly Detection](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection)
 
-Author Krishna Goud
-Head of Data Engineering & MLOps | Rocket LA
+Author 
+Krishna Goud
+
+Head of Data Engineering & MLOps | Rocket LA  [LinkedIn](https://www.linkedin.com/in/krishnagoud)
 
 Delivering $4B+ business impact via AI-first, scalable, real-time data systems
 
-[LinkedIn](https://www.linkedin.com/in/krishnagoud)
+
 
 
 
